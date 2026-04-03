@@ -50,8 +50,6 @@ Select the Impala Virtual Warehouse instace your user was assigned and click the
 
 Start with simple queries to understand the dataset's structure and contents.
 
-!!! important
-    In the below queries, the name of the database will be your workload username.
 
 View the schema and first few rows to get a quick overview of the columns and data types.
 
