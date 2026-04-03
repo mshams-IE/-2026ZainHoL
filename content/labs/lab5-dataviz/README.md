@@ -79,7 +79,7 @@ We will now get values for the `<url_workspace>` and `<access_key>` placeholders
 
 ### Retrieve Field Details from Cloudera AI model
 
-Open Cloudera AI in tab of the web browser. Open the Project that you created in [Lab 4 - Cloudera AI](../lab4-cai/README.md).
+Open Cloudera AI in tab of the web browser. Open the Project that you created in [Lab 2 - Cloudera AI](../lab4-cai/README.md).
 
 Go to the section of Models of your project, and click on the Model that begins with the name _ModelViz_, followed by your assigned username.
 
