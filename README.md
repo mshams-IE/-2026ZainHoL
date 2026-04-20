@@ -1,6 +1,6 @@
-# Cloudera on cloud Telco Churn Data Lifecycle Hands On Lab
+# Cloudera on cloud Telco Hands On Lab
 
-Hands on Lab for showcasing the Cloudera on cloud Data Lifecycle using a Telco Churn use case.
+Hands on Lab for showcasing the Cloudera on cloud Data and AI using a Telco dataset.
 
 > **What's inside?**
 >
