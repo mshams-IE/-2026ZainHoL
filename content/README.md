@@ -2,7 +2,7 @@
 hide:
   - toc
 ---
-# Cloudera AI Workbench Hands on Lab
+# Cloudera Data and AI Hands on Lab
 
 
 Welcome to this  Hands on Lab, where you'll explore the traditional ML lifecycle through a real-world use case: predicting customer churn for a telecommunications company. This lab provides practical experience using _Cloudera on cloud_ data services, guiding you through key stages from data ingestion and processing to analysis and actionable insights.
