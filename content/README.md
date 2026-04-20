@@ -32,7 +32,7 @@ Welcome to this  Hands on Lab, where you'll explore the traditional ML lifecycle
 <div class="grid cards"  markdown>
 
 
-- :simple-cloudera:{ .lg .middle } &nbsp; **Lab 1. Cloudera Data Warehouse**
+- :simple-cloudera:{ .lg .middle } &nbsp; **Day 1. Cloudera Data Lakehouse**
 
     ***
 
@@ -46,7 +46,7 @@ Welcome to this  Hands on Lab, where you'll explore the traditional ML lifecycle
 
     [:octicons-arrow-right-24: Go to Cloudera Data Warehouse Lab Guide](labs/lab3-cdw/README.md)
 
-- :simple-cloudera:{ .lg .middle } &nbsp; **Lab 2. Cloudera AI**
+- :simple-cloudera:{ .lg .middle } &nbsp; **Day 2. Cloudera AI**
 
     ***
 
@@ -59,7 +59,7 @@ Welcome to this  Hands on Lab, where you'll explore the traditional ML lifecycle
 
     [:octicons-arrow-right-24: Go to Cloudera AI Lab Guide](labs/lab4-cai/README.md)
 
-- :simple-cloudera:{ .lg .middle } &nbsp; **Lab 3. Cloudera Data Federation**
+- :simple-cloudera:{ .lg .middle } &nbsp; **Day 3. Cloudera Data Federation**
 
     ***
 
